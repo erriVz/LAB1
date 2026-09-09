@@ -1,5 +1,7 @@
 # Webbplats för Labb 1
 En webbplats med 3 sidor som man kan gå mellan. En bestående av Kort introduktion, en bestående av hobby och en tredje bestående av kontakt
+
+# Tekniker
 Tekniker som används är HTML
 
 ## Publicerade versioner
